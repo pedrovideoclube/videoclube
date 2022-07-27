@@ -19,7 +19,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]Series[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/pedrovideoclube/videoclube/main/icon.png</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<externallink>https://raw.githubusercontent.com/pedrovideoclube/videoclube/main/SERIES.M3U</externallink>
 <fanart>https://raw.githubusercontent.com/pedrovideoclube/videoclube/main/fanart.jpg</fanart>
 </channel>
 
