@@ -1,0 +1,26 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]PORTUGAL LISTA 1[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/pedrovideoclube/videoclube/main/icon.png</thumbnail>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<fanart>https://raw.githubusercontent.com/pedrovideoclube/videoclube/main/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]BRASIL LISTA 1[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/pedrovideoclube/videoclube/main/icon.png</thumbnail>
+<externallink>#</externallink>
+<fanart>https://raw.githubusercontent.com/pedrovideoclube/videoclube/main/fanart.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ESPANHA LISTA 1[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/pedrovideoclube/videoclube/main/icon.png</thumbnail>
+<externallink>#</externallink>
+<fanart>https://raw.githubusercontent.com/pedrovideoclube/videoclube/main/fanart.jpg</fanart>
+</channel>
+
+</channels>
