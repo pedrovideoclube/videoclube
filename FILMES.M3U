@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 channelId="CATEGORIA" tvg-logo="" aspect-ratio="16:9" , NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 channelId="CATEGORIA" tvg-logo="https://image.tmdb.org/t/p/w300/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg" aspect-ratio="16:9" , The Gray Man
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47c0aa04416c59489e98d28de56fc00b91c0947a&dn=The.Gray.Man.2022.720p.NF.WEBRip.DDP5.1.Atmos.x264-SMURF&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2840&tr=udp%3A%2F%2F9.rarbg.to%3A2960&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14740&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15740
 
 #EXTINF:-1 channelId="CATEGORIA" tvg-logo="" aspect-ratio="16:9" , NOME DO FILME
 plugin://plugin.video.elementum/play?uri=
