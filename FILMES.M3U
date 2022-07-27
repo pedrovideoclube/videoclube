@@ -3,8 +3,8 @@
 #EXTINF:-1 channelId="CATEGORIA" tvg-logo="https://image.tmdb.org/t/p/w300/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg" aspect-ratio="16:9" , The Gray Man
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47c0aa04416c59489e98d28de56fc00b91c0947a&dn=The.Gray.Man.2022.720p.NF.WEBRip.DDP5.1.Atmos.x264-SMURF&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2840&tr=udp%3A%2F%2F9.rarbg.to%3A2960&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14740&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15740
 
-#EXTINF:-1 channelId="CATEGORIA" tvg-logo="" aspect-ratio="16:9" , NOME DO FILME
-plugin://plugin.video.elementum/play?uri=
+#EXTINF:-1 channelId="CATEGORIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGt74nouvoKCdY-ISyeCleHxp0uMujexZiItu13po7ghx5DAjxZaEtWR6WbHr2FzbVYopO_Op8a4LzIGwtUFZHT6fJ-018Mcbyq1eod6b8PlXtLG1A0Kdf-_V9WfPVm2gCztF62dvYOwEWkprTIhhZfqXdbeStjz6TM2hrk0YNJOMnkjGHYjwwPqTSjQ/s1600/A%20Invas%C3%A3o%20-%20Ocupa%C3%A7%C3%A3o%20Alien%C3%ADgena.jpg" aspect-ratio="16:9" , Occupation: Rainfall
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a83116b01937a9bc99f0fb022e50e614a7885ad&dn=Occupation.Rainfall.2020.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940&tr=udp%3A%2F%2F9.rarbg.to%3A2950&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13750&tr=udp%3A%2F%2Ftracker.slowcheetah.org%3A14710
 
 #EXTINF:-1 channelId="CATEGORIA" tvg-logo="" aspect-ratio="16:9" , NOME DO FILME
 plugin://plugin.video.elementum/play?uri=
