@@ -1,10 +1,10 @@
 #EXTM3U
 
-#XTINF:-1 tv-logo:="https://raw.githubusercontent.com/pedrovideoclube/videoclube/main/Player%20One.png" group-title="" , Pedro VideoClube
+#XTINF:-1 tv-logo:="https://i.imgur.com/2hzngQH.png" group-title="" , Pedro VideoClube
 
-#XTINF:-1 tv-logo:="https://raw.githubusercontent.com/pedrovideoclube/videoclube/main/Player%20One.png" group-title="" , 27/07/2022
+#XTINF:-1 tv-logo:="https://i.imgur.com/2hzngQH.png" group-title="" , 27/07/2022
 
-#XTINF:-1 tv-logo:="https://raw.githubusercontent.com/pedrovideoclube/videoclube/main/Player%20One.png" group-title="" , OS MELHORES FILMES E SERIES
+#XTINF:-1 tv-logo:="https://i.imgur.com/2hzngQH.png" group-title="" , OS MELHORES FILMES E SERIES
 
 #EXTINF:-1 channelId="CATEGORIA" tvg-logo="" aspect-ratio="16:9" , NOME DO FILME
 URL DO FILME
